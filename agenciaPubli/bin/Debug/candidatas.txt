@@ -1,0 +1,9 @@
+Juma;16
+Bianca;13
+Beatriz;19
+Lucinda;20
+Joice;21
+Rose;18
+Liz;18
+Beatriz;20
+Maria;19

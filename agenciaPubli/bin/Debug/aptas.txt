@@ -1,0 +1,6 @@
+Beatriz;19
+Lucinda;20
+Rose;18
+Liz;18
+Beatriz;20
+Maria;19

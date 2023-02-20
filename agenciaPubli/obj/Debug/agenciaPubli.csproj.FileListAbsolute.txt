@@ -1,0 +1,8 @@
+C:\Users\joilma\Documents\SharpDevelop Projects\agenciaPubli\agenciaPubli\bin\Debug\agenciaPubli.exe.config
+C:\Users\joilma\Documents\SharpDevelop Projects\agenciaPubli\agenciaPubli\bin\Debug\agenciaPubli.exe
+C:\Users\joilma\Documents\SharpDevelop Projects\agenciaPubli\agenciaPubli\bin\Debug\agenciaPubli.pdb
+C:\Users\joilma\Documents\SharpDevelop Projects\agenciaPubli\agenciaPubli\obj\Debug\agenciaPubli.csprojResolveAssemblyReference.cache
+C:\Users\joilma\Documents\SharpDevelop Projects\agenciaPubli\agenciaPubli\obj\Debug\agenciaPubli.MainForm.resources
+C:\Users\joilma\Documents\SharpDevelop Projects\agenciaPubli\agenciaPubli\obj\Debug\agenciaPubli.csproj.GenerateResource.Cache
+C:\Users\joilma\Documents\SharpDevelop Projects\agenciaPubli\agenciaPubli\obj\Debug\agenciaPubli.exe
+C:\Users\joilma\Documents\SharpDevelop Projects\agenciaPubli\agenciaPubli\obj\Debug\agenciaPubli.pdb
